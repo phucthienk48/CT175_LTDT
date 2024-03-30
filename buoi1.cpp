@@ -25,3 +25,5 @@ int main(){
 	printf("%d %d",G.n, G.m);
 	return 0;
 }
+
+// 
